@@ -15,3 +15,5 @@ curl -s -I $1 | grep Server
 #arg example: unit.ua
 #arg example: brinkster.com
 #arg example: http://op3creative.com
+
+#alternative: cat /etc/resolv.conf | grep 10.51.1.253 | awk '{print $1}'
