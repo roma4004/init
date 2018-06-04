@@ -1,1 +1,2 @@
-echo "kill -9 <PID>"
+pkill tail
+#echo "kill -9 <PID>"

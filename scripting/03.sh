@@ -1,1 +1,1 @@
-ls -l $1 | grep '^-'
+ls -lS $1 | grep '^-'
