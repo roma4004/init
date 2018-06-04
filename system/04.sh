@@ -1,1 +1,0 @@
-echo "uptime -s"

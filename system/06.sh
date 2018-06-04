@@ -1,1 +1,0 @@
-echo "service ssh restart"
